@@ -14,14 +14,16 @@ cd VimmsDownloader
 </code> </pre>
 
 **2. Create the Virtual enviroment**
-<pre> <code> ```python -m vimms-venv venv vimms-venv\Scripts\Activate.bat ``` </code> </pre>
+```bash
+python -m vimms-venv venv vimms-venv\Scripts\Activate.bat 
+```
 
 **3. Install requirements**
-
-
-  pip install -r requirements.txt
+```bash
+pip install -r requirements.txt
+```
 
 **4. Launch Vimms-Scraper**
-
-
-  python scrape.py
+```bash
+python scrape.py
+```
