@@ -7,16 +7,10 @@
 
 # Steps
 **1. Clone the repository**
-
-
-  git clone https://github.com/HPomret/Vimms-Scraper.git
-  cd Vimms-Scraper
+<pre> <code> ```bash git clone https://github.com/DasJager/VimmsDownloader.git cd VimmsDownloader ``` </code> </pre>
 
 **2. Create the Virtual enviroment**
-
-
-  python -m vimms-venv venv
-  vimms-venv\Scripts\Activate.bat
+<pre> <code> ```python -m vimms-venv venv vimms-venv\Scripts\Activate.bat ``` </code> </pre>
 
 **3. Install requirements**
 
