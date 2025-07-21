@@ -7,11 +7,10 @@
 
 # Steps
 **1. Clone the repository**
-<pre> <code> 
-  ```
-  bash git clone https://github.com/DasJager/VimmsDownloader.git 
-  cd VimmsDownloader 
-  ``` 
+```bash
+git clone https://github.com/DasJager/VimmsDownloader.git 
+cd VimmsDownloader 
+``` 
 </code> </pre>
 
 **2. Create the Virtual enviroment**
